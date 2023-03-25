@@ -1,0 +1,119 @@
+.header {
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.header>ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+.SIDE {
+    background-color: black;
+    flex-direction: column;
+    width: 200PX;
+}
+
+.banner1{
+    padding-top: 40vh;
+    color: rgb(156, 18, 18);  
+    display: flex;
+    justify-content: left; 
+    height: 60VH;
+    width: 100%;
+    background-image: url("images/BB1.jpg");
+}
+.text{
+    padding-left:  20px;
+}
+.text2{
+    display: flex;
+   justify-content: ;
+}
+.rt{
+    font-size: 30px;
+    padding-left: 13px;
+}
+.rr{
+margin: 10Px;
+font-size: 98PX;
+}
+.text>ul{
+    list-style: none;
+    text-align: left;
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+    opacity: 1;
+}
+.text>ul>h5{
+    font-size: ;
+
+}
+.img>img{
+    width: 100%;
+    height: 90vh;
+}
+.banner2{
+    color: rgb(254, 252, 252);  
+    display: flex;
+    justify-content: left; 
+    height: 100VH;
+    width: 100%;
+    background-image: url("images/BAN.jpg");
+}
+.text2>ul{
+    padding-left: 150PX;
+    margin: 20px;
+        list-style: none;
+        text-align: left;
+        font-size: 28px;
+        font-weight: bold;
+        color: #f9f3f3;
+        opacity: 1;
+}
+.yy{
+   margin: 10px;
+   font-size: 98px;
+}
+.dd{
+    padding-top: 60px;
+    font-size: 12px;
+
+}
+.banner3{
+    color: rgb(254, 252, 252);  
+    display: flex;
+    justify-content: left; 
+    height: 100VH;
+    width: 100%;
+    background-image: url("images/rr.jpg");
+}
+.text3>ul{
+    padding-left: 150PX;
+    margin: 20px;
+        list-style: none;
+        text-align: left;
+        font-size: 28px;
+        font-weight: bold;
+        color: #ffffff;
+        opacity: 1;
+}
+.hy{
+   margin: 10px;
+   font-size: 98px;
+}
+.hd{
+    margin: 10px;
+    font-size: 98px
+
+}
+
+ 
